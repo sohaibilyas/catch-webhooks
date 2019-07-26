@@ -10,7 +10,7 @@ composer require sohaibilyas/catch-webhooks
 
 ### Usage
 
-```
+```php
 use SohaibIlyas\CatchWebhooks\FacebookWebhook;
 
 require './vendor/autoload.php';
