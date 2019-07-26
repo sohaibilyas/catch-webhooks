@@ -1,0 +1,21 @@
+{
+    "name": "sohaibilyas/catch-webhooks",
+    "description": "Simple API to receive webhooks (real-time updates) sent by social websites e.g. Facebook using PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sohaib Ilyas",
+            "email": "contact@sohaibilyas.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SohaibIlyas\\CatchWebhooks\\": "src"
+        }
+    },
+    "require-dev": {
+    }
+}
